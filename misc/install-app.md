@@ -1,5 +1,7 @@
 # Install app
 
+Depackage and create a symbolic link
+
 ```bash
 sudo dpkg -i "app.deb"
 sudo mv app /opt/
