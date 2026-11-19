@@ -4,6 +4,7 @@
 ubuntu-drivers devices
 sudo apt update
 sudo ubuntu-drivers autoinstall
+sudo ubuntu-drivers install nvidia:595-open
 ```
 
 ```bash
